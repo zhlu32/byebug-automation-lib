@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UI模块测试套件">
+    <test name="登录模块">
+        <classes>
+            <class name="com.mall.ui.smoke.login.LoginTest"/>
+        </classes>
+    </test>
+</suite>

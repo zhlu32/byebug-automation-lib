@@ -1,0 +1,4 @@
+### 根据系统类型和Chrome版本，确定下载驱动程序 ###
+# 1. chrome当前目录下的驱动文件，对应Chrome版本-122.0.6261.111
+# 2. chrome驱动下载地址：https://sites.google.com/chromium.org/driver/
+# 3. 下载后的驱动文件，根据运行UI自动化测试的平台不同，重命名为如driver-mac、driver-win.exe、driver-linux
